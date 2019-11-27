@@ -1,18 +1,31 @@
 # i3-polybar-scripts
 Just the i3, polybar, and scripts
 Dependencies I know are needed (arch/manjaro): 
+
 i3-gaps-rounded-git
+
 wpgtk
+
 python-haishoku 
+
 oomox 
+
 python-pywal 
+
 polybar 
+
 nerd-fonts-complete 
+
 gnome-tweaks (for gtk/gnome apps) 
+
 lxappearance (for the others) 
+
 gtkrc-reload for gtk2 apps 
+
 feh 
+
 you need to install the compton-tryone-git fork of compton if you want blur, otherwise you'll need to remove the blur section from compton.conf. 
+
 I'll add more if I can remember them. 
 
 Make the scripts in the "scripts" folder executable and symlink them to somewhere in your PATH
